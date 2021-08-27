@@ -10,7 +10,8 @@
 #### 导入
 ```js
 
-	const myToolEki = require('my-tools-eki')
+	const myToolEki = require('my-tools-eki')	//node.js
+    import * as myToolEki form './my-tools-eki/index-bowser.js'
 
 ```
 
@@ -37,5 +38,4 @@
 
 ## 开源协议
 ISC
-
 
